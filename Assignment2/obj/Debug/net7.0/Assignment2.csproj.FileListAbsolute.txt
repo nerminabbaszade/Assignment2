@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\bin\Debug\net7.0\Assignment2.exe
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\bin\Debug\net7.0\Assignment2.deps.json
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\bin\Debug\net7.0\Assignment2.runtimeconfig.json
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\bin\Debug\net7.0\Assignment2.dll
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\bin\Debug\net7.0\Assignment2.pdb
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.AssemblyInfo.cs
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.sourcelink.json
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.dll
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\refint\Assignment2.dll
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.pdb
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\Assignment2.genruntimeconfig.cache
+C:\Users\Asus\Desktop\code_academy_projects\Assignment2IfElse\Assignment2\obj\Debug\net7.0\ref\Assignment2.dll
